@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Anking Lin</title>
+  
+  <subtitle>Newer,Better.</subtitle>
+  <link href="http://ankinglin.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://ankinglin.github.io/"/>
+  <updated>2022-06-21T16:18:57.479Z</updated>
+  <id>http://ankinglin.github.io/</id>
+  
+  <author>
+    <name>Anking Lin</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello!</title>
+    <link href="http://ankinglin.github.io/posts/1183b06891f7.html"/>
+    <id>http://ankinglin.github.io/posts/1183b06891f7.html</id>
+    <published>2020-10-31T07:15:09.000Z</published>
+    <updated>2022-06-21T16:18:57.479Z</updated>
+    
+    <content type="html"><![CDATA[<p>你好呀！<br>————2022</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;你好呀！&lt;br&gt;————2022&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="测试" scheme="http://ankinglin.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+</feed>
